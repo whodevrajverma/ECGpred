@@ -10,6 +10,8 @@ Correlation and prediction of gene expression level from amino acid and dipeptid
 https://doi.org/10.1186/1471-2105-6-59
 
 
+This dataset can also be found on Zenodo at
+
 ## About the Research
 
 In the post-genomic era, understanding the regulation of gene expression is a major challenge. While many studies focus on regulatory elements in DNA or mRNA stability, this study investigates the
