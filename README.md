@@ -9,8 +9,7 @@ Correlation and prediction of gene expression level from amino acid and dipeptid
 
 https://doi.org/10.1186/1471-2105-6-59
 
-
-This dataset can also be found on Zenodo at
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20094850
 
 ## About the Research
 
